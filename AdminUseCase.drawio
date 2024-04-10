@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T19:40:04.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yIKlb4HM8p8OGp7qMKQc" version="24.2.3" type="device">
+<mxfile host="app.diagrams.net" modified="2024-04-10T20:28:00.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="K_Q8dSb6TsbVOMXGZVgL" version="24.2.3" type="device">
   <diagram name="Page-1" id="rK-AMSusxKKNQ6RRBM9y">
     <mxGraphModel dx="1257" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,6 +98,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="250" as="sourcePoint" />
             <mxPoint x="114" y="871" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAZ5iC2q60SYBtR_N4RA-3" value="Edit Student Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jWC2T0mQsvkOoZAkQ9t0-1">
+          <mxGeometry x="110" y="960" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nAZ5iC2q60SYBtR_N4RA-4" value="Edit Landlord Details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="jWC2T0mQsvkOoZAkQ9t0-1">
+          <mxGeometry x="114" y="1070" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nAZ5iC2q60SYBtR_N4RA-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.029;entryY=0.339;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jWC2T0mQsvkOoZAkQ9t0-1" target="nAZ5iC2q60SYBtR_N4RA-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="250" as="sourcePoint" />
+            <mxPoint x="84" y="951" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nAZ5iC2q60SYBtR_N4RA-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.056;entryY=0.214;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jWC2T0mQsvkOoZAkQ9t0-1" target="nAZ5iC2q60SYBtR_N4RA-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="250" as="sourcePoint" />
+            <mxPoint x="104" y="901" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jWC2T0mQsvkOoZAkQ9t0-12" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">

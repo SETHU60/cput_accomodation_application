@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T10:43:52.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gj1_Demx3A_rtWM8PvGI" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T10:44:15.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lY2pHYQfxu-oTQjVtLvV" version="24.2.5" type="github">
   <diagram name="Page-1" id="rK-AMSusxKKNQ6RRBM9y">
     <mxGraphModel dx="1018" dy="620" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
           <mxGeometry x="301" y="960" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fJEHaeqS2e_YVtIhRU6O-1" value="StudentAccomodationSystem" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="177" y="38" width="586" height="1455" as="geometry" />
+          <mxGeometry x="177" y="38" width="586" height="1112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T09:04:37.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UHbgIYZ7MThIoAx394ci" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T14:28:18.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="niNUgD0CCxrCCSv5jT8d" version="24.2.5" type="github">
   <diagram name="Page-1" id="rK-AMSusxKKNQ6RRBM9y">
-    <mxGraphModel dx="2037" dy="71" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="-694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jWC2T0mQsvkOoZAkQ9t0-1" value="Residence Application System" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="1200" width="430" height="1450" as="geometry" />
         </mxCell>
-        <mxCell id="jWC2T0mQsvkOoZAkQ9t0-2" value="Review Property Rating" style="ellipse;whiteSpace=wrap;html=1;" parent="jWC2T0mQsvkOoZAkQ9t0-1" vertex="1">
+        <mxCell id="jWC2T0mQsvkOoZAkQ9t0-2" value="Review Properties" style="ellipse;whiteSpace=wrap;html=1;" parent="jWC2T0mQsvkOoZAkQ9t0-1" vertex="1">
           <mxGeometry x="110" y="60" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jWC2T0mQsvkOoZAkQ9t0-4" value="Add Student" style="ellipse;whiteSpace=wrap;html=1;" parent="jWC2T0mQsvkOoZAkQ9t0-1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="jWC2T0mQsvkOoZAkQ9t0-10" value="Delete Landlord" style="ellipse;whiteSpace=wrap;html=1;" parent="jWC2T0mQsvkOoZAkQ9t0-1" vertex="1">
           <mxGeometry x="114" y="500" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jWC2T0mQsvkOoZAkQ9t0-11" value="Add Property" style="ellipse;whiteSpace=wrap;html=1;" parent="jWC2T0mQsvkOoZAkQ9t0-1" vertex="1">
+        <mxCell id="jWC2T0mQsvkOoZAkQ9t0-11" value="Approve Property" style="ellipse;whiteSpace=wrap;html=1;" parent="jWC2T0mQsvkOoZAkQ9t0-1" vertex="1">
           <mxGeometry x="110" y="610" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jWC2T0mQsvkOoZAkQ9t0-13" value="Delete Property" style="ellipse;whiteSpace=wrap;html=1;" parent="jWC2T0mQsvkOoZAkQ9t0-1" vertex="1">
@@ -79,10 +79,10 @@
             <mxPoint x="114" y="871" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nAZ5iC2q60SYBtR_N4RA-3" value="Edit Student Details" style="ellipse;whiteSpace=wrap;html=1;" parent="jWC2T0mQsvkOoZAkQ9t0-1" vertex="1">
+        <mxCell id="nAZ5iC2q60SYBtR_N4RA-3" value="Update Student Details" style="ellipse;whiteSpace=wrap;html=1;" parent="jWC2T0mQsvkOoZAkQ9t0-1" vertex="1">
           <mxGeometry x="110" y="960" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nAZ5iC2q60SYBtR_N4RA-4" value="Edit Landlord Details" style="ellipse;whiteSpace=wrap;html=1;" parent="jWC2T0mQsvkOoZAkQ9t0-1" vertex="1">
+        <mxCell id="nAZ5iC2q60SYBtR_N4RA-4" value="Update Landlord Details" style="ellipse;whiteSpace=wrap;html=1;" parent="jWC2T0mQsvkOoZAkQ9t0-1" vertex="1">
           <mxGeometry x="114" y="1070" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nAZ5iC2q60SYBtR_N4RA-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0.029;entryY=0.339;entryDx=0;entryDy=0;entryPerimeter=0;" parent="jWC2T0mQsvkOoZAkQ9t0-1" target="nAZ5iC2q60SYBtR_N4RA-4" edge="1">

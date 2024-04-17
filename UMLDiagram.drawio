@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T21:19:44.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="klfm0Yt-dfXwT1MlPH4W" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T21:43:01.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="agy-KsOhPxI5S_Uhbtrp" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2109" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2280" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -307,6 +307,15 @@
         </mxCell>
         <mxCell id="Dhow89LhBuGo7Tv1gAj4-33" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-30" y="570" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhow89LhBuGo7Tv1gAj4-34" value="Proof Of Registration&lt;div&gt;CopyOfId&lt;/div&gt;&lt;div&gt;Nsfas ,&lt;/div&gt;&lt;div&gt;Financial Aid Documents&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-170" y="318" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhow89LhBuGo7Tv1gAj4-35" value="1..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="677" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dhow89LhBuGo7Tv1gAj4-36" value="1..1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-120" y="732" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
